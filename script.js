@@ -3,16 +3,16 @@ const moments = [
     text: "if we could spend valentine's together in lisbon, what would matter most?",
     choices: [
       "finding the perfect spot to watch the sunset",
-      "getting lost in conversation at some random café",
-      "just being in the same place, breathing the same air",
-      "making each other laugh until our faces hurt"
+      "getting lost in conversation at some niche restaurant",
+      "just being in the same place, being clingy in the bed",
+      "giving you the prettiest flowers that remind ме of you"
     ]
   },
   {
     text: "what do you think i appreciate most about you?",
     choices: [
-      "how you see the world differently",
-      "how comfortable silence feels with you",
+      "how similar we are inside",
+      "how comfortable I feel with you",
       "the way you make ordinary moments feel special",
       "all of it, honestly"
     ]
@@ -38,7 +38,7 @@ const moments = [
   {
     text: "you know what the best part is?",
     choices: [
-      "that even 2,700 km away, you still feel close",
+      "that even 3,678 km away, you still feel close",
       "that we can be ourselves completely",
       "that this is just the beginning",
       "that it's you"
