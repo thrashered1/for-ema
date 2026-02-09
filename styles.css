@@ -270,7 +270,7 @@ body::before {
 .footer-note {
   text-align: center;
   font-family: 'Inconsolata', monospace;
-  font-size: 0.80em;
+  font-size: 0.75em;
   color: #5a5a5a;
   margin: 60px 0 30px;
   letter-spacing: 1px;
@@ -380,3 +380,4 @@ body::before {
 .fade-in {
   animation: fadeInUp 0.8s ease-out;
 }
+
